@@ -1,7 +1,7 @@
 shellCatcher
 ============
 
-Small tool that spits out a reverse shell string in different languages, and spins up a listener that waits for its connection
+Small tool that spits out a reverse shell string in different languages, and spins up a listener that waits for its connection. There is currently no error handling or anything like that. More tolerance and features will be added over time.
 
 
 example usage
